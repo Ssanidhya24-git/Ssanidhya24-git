@@ -1,6 +1,11 @@
 ### Hi there , I'm Ssanidhya Barraptay  👋
 
 ## I'm a student interested in the field of ML and AI!
+
+A 2020 Bachelor of E&TC field at the University of Pune. A Data Science Enthusiast with a good base in Machine Learning and Statistics. Flexible in learning and working with new technologies according to the line of work.
+
+Skills: Python / Machine Learning / Deep Learning / TensorFlow / Seaborn
+
 Here are some ideas to get you started:
 - 🔭 I’m currently working on some cool ML Projects!
 - 🌱 I’m currently learning everything 🤣
@@ -10,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to stay physically and mentally fit and I love to read book's as well
 
 [![Ssanidhya's github stats](https://github-readme-stats.vercel.app/api?username=Ssanidhya24-git)](https://github.com/Ssanidhya24-git/github-readme-stats)
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ssanidhay24-git)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ssanidhyabarraptay24/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Ssanidhay2)  
+
 
 ### Languages and Tools:
 
