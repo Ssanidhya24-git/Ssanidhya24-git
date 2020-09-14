@@ -5,7 +5,7 @@
 A 2020 Bachelor of E&TC field at the University of Pune. A Data Science Enthusiast with a good base in Machine Learning and Statistics. Flexible in learning and working with new technologies according to the line of work.
 - 🔭 I’m currently working on some cool ML Projects!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for internships in Data Science field
+- 👯 I’m looking to build my network
 - 🥅 2020 Goals: Contribute more to the Open Source community
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love to stay physically and mentally fit and I love to read book's as well
