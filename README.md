@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![Ssanidhya's github stats](https://github-readme-stats.vercel.app/api?username=Ssanidhya24-git)](https://github.com/Ssanidhya24-git/github-readme-stats)
 
-
+### Connect with me on:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ssanidhay24-git)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ssanidhyabarraptay24/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Ssanidhay2)  
 
 
