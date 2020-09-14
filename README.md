@@ -4,7 +4,12 @@
 
 A 2020 Bachelor of E&TC field at the University of Pune. A Data Science Enthusiast with a good base in Machine Learning and Statistics. Flexible in learning and working with new technologies according to the line of work.
 
-Skills: Python / Machine Learning / Deep Learning / TensorFlow / Seaborn
+## Skills & Experience
+* Python 
+* Machine Learning
+* Deep Learning 
+* TensorFlow 
+* Seaborn
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on some cool ML Projects!
