@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="TensorFlow" width="26px" src="https://www.google.com/search?q=tensorflow+logo&safe=active&sxsrf=ALeKk01N5l6Y4siAao4z-53gWbqFzxocSg:1600062670245&tbm=isch&source=iu&ictx=1&fir=2bKHL0JztAmp5M%252C9V1HPMOo_IGMSM%252C_&vet=1&usg=AI4_-kSkxHCq3mVfF4YDDyutwdR83M942g&sa=X&ved=2ahUKEwjm5M_4-efrAhV18XMBHSD4DbEQ9QF6BAgKEF4#imgrc=2bKHL0JztAmp5M" />
+<img align="left" alt="TensorFlow" width="26px" src="https://www.google.com/search?q=tensorflow+logo&safe=active&sxsrf=ALeKk01N5l6Y4siAao4z-53gWbqFzxocSg:1600062670245&tbm=isch&source=iu&ictx=1&fir=hZ5TX3QXxQFm1M%252Cr9XhT1GymViHcM%252C_&vet=1&usg=AI4_-kRLRcRpS4K2VfakpJmYdV8PRJOxrA&sa=X&ved=2ahUKEwjm5M_4-efrAhV18XMBHSD4DbEQ9QF6BAgKEE4#imgrc=hZ5TX3QXxQFm1M" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
