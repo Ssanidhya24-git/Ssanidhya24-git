@@ -9,11 +9,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love to stay physically and mentally fit and I love to read book's as well
 
-### Connect with me:
-
-[<img align="left" alt="Ssanidhya24 | Kaggle" width="22px" src="https://www.kaggle.com/ssanidhyabarraptay" />][Kaggle]
-[<img align="left" alt="Sanidhya24 | LinkedIn" width="22px" src="https://www.linkedin.com/in/ssanidhyabarraptay24/" />][linkedin]
-[<img align="left" alt="Ssanidhya24 | Twitter" width="22px" src="https://twitter.com/Ssanidhya2" />][Twitter]
-
-<br />
-
+### Languages and Tools:
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
